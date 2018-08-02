@@ -5,6 +5,8 @@
 
 # Chai Assertions for Promises
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/domenic--chai-as-promised.svg)](https://www.staging.guardrails.io)
+
 **Chai as Promised** extends [Chai](http://chaijs.com/) with a fluent language for asserting facts about [promises](http://www.slideshare.net/domenicdenicola/callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript).
 
 Instead of manually wiring up your expectations to a promise's fulfilled and rejected handlers:

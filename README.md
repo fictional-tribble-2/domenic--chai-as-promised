@@ -5,7 +5,7 @@
 
 # Chai Assertions for Promises
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/domenic--chai-as-promised.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/domenic--chai-as-promised.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/domenic--chai-as-promised.svg)](https://www.guardrails.io)
 
 **Chai as Promised** extends [Chai](http://chaijs.com/) with a fluent language for asserting facts about [promises](http://www.slideshare.net/domenicdenicola/callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript).
 
